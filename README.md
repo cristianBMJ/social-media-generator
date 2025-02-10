@@ -9,4 +9,4 @@
 ```bash
 poetry install
 poetry shell
-uvicorn backend.api.main:app --reload
+uvicorn backend.api.main:app --reload   
